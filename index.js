@@ -11,6 +11,7 @@ document.getElementById("btn").addEventListener("click", () => {
   document.getElementById("human-resources").style.display = "none";
   document.getElementById("btn").style.display = "none";
   document.getElementById("chagol").style.display = "inline";
+  document.getElementById("ahana").style.display = "inline";
 
   bdaysong.play();
 });
